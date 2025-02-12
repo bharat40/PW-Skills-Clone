@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# PW Skills Practice Website
+A responsive website built using ReactJS and Tailwind CSS to practice modern web development techniques. This project focuses on creating a clean, adaptive UI that works seamlessly across different screen sizes. It serves as a hands-on learning experience to enhance frontend development skills. 🚀
